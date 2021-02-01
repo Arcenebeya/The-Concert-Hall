@@ -1,5 +1,5 @@
 //MASALA VANGULUA JARED
-//INFOS ISTA
+//INFOS ISTA KOLWEZI
 //G1
 //Teacher: Arcene beya
 #include <stdio.h>
